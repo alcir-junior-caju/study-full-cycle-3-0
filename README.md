@@ -21,3 +21,32 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 
 - [Docker do básico ao avançado](https://github.com/alcir-junior-caju/study-full-cycle-3-0-docker)
 - [Fundamentos da Arquitetura de Software](https://github.com/alcir-junior-caju/study-full-cycle-3-0-fundamentos-da-arquitetura-de-software)
+- Comunicação entre sistemas
+- SOLID Express
+- Domain Driven Design
+- Domain Driven Design - Modelagem Tática e Patterns
+- Event Storming na Prática
+- Arquitetura Hexagonal
+- Clean Architecture
+- Sistemas Monolíticos
+- Arquitetura Baseada em Microserviços
+- EDA - Event Driven Architecture
+- API Gateway
+- RabbitMQ
+- Apache Kafka
+- Autenticação e Keycloak
+- Arquitetura do Projeto Prático - Codeflix
+- Projeto Prático - TypeScript (Backend)
+- Projeto Prático - React (Frontend)
+- Microserviço de Encoder de Vídeo com Go Lang
+- Padrões e Técnicas Avançadas com Git e Github
+- Integração Contínua
+- Kubernetes
+- Service Mesh com Istio
+- API Gateway com Kong e Kubernetes
+- Observabilidade
+- Introdução a OpenTelemetry
+- Terraform
+- Ansible
+- GitOps
+- Deploy nas Clouds Providers
