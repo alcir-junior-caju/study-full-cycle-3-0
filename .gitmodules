@@ -1,6 +1,6 @@
 [submodule "docker"]
 	path = docker
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-docker.git
-[submodule "study-full-cycle-3-0-fundamentos-da-arquitetura-de-software"]
-	path = study-full-cycle-3-0-fundamentos-da-arquitetura-de-software
+[submodule "fundamentos-da-arquitetura-de-software"]
+	path = fundamentos-da-arquitetura-de-software
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-fundamentos-da-arquitetura-de-software.git
