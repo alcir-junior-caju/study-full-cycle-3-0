@@ -4,3 +4,6 @@
 [submodule "fundamentos-da-arquitetura-de-software"]
 	path = fundamentos-da-arquitetura-de-software
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-fundamentos-da-arquitetura-de-software.git
+[submodule "comunicacao-entre-sistemas"]
+	path = comunicacao-entre-sistemas
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-comunicacao-entre-sistemas.git
