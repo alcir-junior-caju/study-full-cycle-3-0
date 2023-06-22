@@ -7,3 +7,6 @@
 [submodule "comunicacao-entre-sistemas"]
 	path = comunicacao-entre-sistemas
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-comunicacao-entre-sistemas.git
+[submodule "solid"]
+	path = solid
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-solid.git

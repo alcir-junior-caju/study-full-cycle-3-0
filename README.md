@@ -22,7 +22,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Docker do básico ao avançado](https://github.com/alcir-junior-caju/study-full-cycle-3-0-docker)
 - [Fundamentos da Arquitetura de Software](https://github.com/alcir-junior-caju/study-full-cycle-3-0-fundamentos-da-arquitetura-de-software)
 - [Comunicação entre sistemas](https://github.com/alcir-junior-caju/study-full-cycle-3-0-comunicacao-entre-sistemas)
-- SOLID Express
+- [SOLID](https://github.com/alcir-junior-caju/study-full-cycle-3-0-solid)
 - Domain Driven Design
 - Domain Driven Design - Modelagem Tática e Patterns
 - Event Storming na Prática
