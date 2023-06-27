@@ -13,3 +13,6 @@
 [submodule "domain-driven-design"]
 	path = domain-driven-design
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-domain-driven-design.git
+[submodule "domain-driven-design-modelagem-tatica-e-patterns"]
+	path = domain-driven-design-modelagem-tatica-e-patterns
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-domain-driven-design-modelagem-tatica-e-patterns.git
