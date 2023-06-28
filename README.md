@@ -25,7 +25,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [SOLID](https://github.com/alcir-junior-caju/study-full-cycle-3-0-solid)
 - [Domain Driven Design](https://github.com/alcir-junior-caju/study-full-cycle-3-0-domain-driven-design)
 - [Domain Driven Design - Modelagem Tática e Patterns](https://github.com/alcir-junior-caju/study-full-cycle-3-0-domain-driven-design-modelagem-tatica-e-patterns)
-- Event Storming na Prática
+- [Event Storming na Prática](https://github.com/alcir-junior-caju/study-full-cycle-3-0-event-storming)
 - Arquitetura Hexagonal
 - Clean Architecture
 - Sistemas Monolíticos

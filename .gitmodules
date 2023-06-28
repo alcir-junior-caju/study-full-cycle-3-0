@@ -16,3 +16,6 @@
 [submodule "domain-driven-design-modelagem-tatica-e-patterns"]
 	path = domain-driven-design-modelagem-tatica-e-patterns
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-domain-driven-design-modelagem-tatica-e-patterns.git
+[submodule "event-storming"]
+	path = event-storming
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-event-storming.git
