@@ -19,3 +19,6 @@
 [submodule "event-storming"]
 	path = event-storming
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-event-storming.git
+[submodule "arquitetura-hexagonal"]
+	path = arquitetura-hexagonal
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-arquitetura-hexagonal.git
