@@ -22,3 +22,6 @@
 [submodule "arquitetura-hexagonal"]
 	path = arquitetura-hexagonal
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-arquitetura-hexagonal.git
+[submodule "clean-architecture"]
+	path = clean-architecture
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-clean-architecture.git
