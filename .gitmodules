@@ -25,3 +25,6 @@
 [submodule "clean-architecture"]
 	path = clean-architecture
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-clean-architecture.git
+[submodule "sistemas-monoliticos"]
+	path = sistemas-monoliticos
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-sistemas-monoliticos.git
