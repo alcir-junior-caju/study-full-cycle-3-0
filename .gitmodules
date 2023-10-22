@@ -28,3 +28,6 @@
 [submodule "sistemas-monoliticos"]
 	path = sistemas-monoliticos
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-sistemas-monoliticos.git
+[submodule "arquitetura-baseada-em-microservicos"]
+	path = arquitetura-baseada-em-microservicos
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-arquitetura-baseada-em-microservicos.git
