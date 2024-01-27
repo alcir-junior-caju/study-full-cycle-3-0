@@ -34,3 +34,6 @@
 [submodule "eda-event-driven-architecture"]
 	path = eda-event-driven-architecture
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-eda-event-driven-architecture.git
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-rabbitMQ.git

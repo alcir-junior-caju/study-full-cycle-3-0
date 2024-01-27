@@ -32,7 +32,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Arquitetura Baseada em Microserviços](https://github.com/alcir-junior-caju/study-full-cycle-3-0-arquitetura-baseada-em-microservicos)
 - [EDA - Event Driven Architecture](https://github.com/alcir-junior-caju/study-full-cycle-3-0-eda-event-driven-architecture)
 - API Gateway
-- RabbitMQ
+- [RabbitMQ](https://github.com/alcir-junior-caju/study-full-cycle-3-0-rabbitMQ)
 - Apache Kafka
 - Autenticação e Keycloak
 - Arquitetura do Projeto Prático - Codeflix
