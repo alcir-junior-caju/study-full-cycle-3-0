@@ -31,3 +31,6 @@
 [submodule "arquitetura-baseada-em-microservicos"]
 	path = arquitetura-baseada-em-microservicos
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-arquitetura-baseada-em-microservicos.git
+[submodule "eda-event-driven-architecture"]
+	path = eda-event-driven-architecture
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-eda-event-driven-architecture.git
