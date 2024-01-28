@@ -40,3 +40,6 @@
 [submodule "apache-kafka"]
 	path = apache-kafka
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-apache-kafka.git
+[submodule "codeflix"]
+	path = codeflix
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-arquitetura-codeflix.git
