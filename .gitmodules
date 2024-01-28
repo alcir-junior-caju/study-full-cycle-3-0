@@ -37,3 +37,6 @@
 [submodule "rabbitmq"]
 	path = rabbitmq
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-rabbitMQ.git
+[submodule "apache-kafka"]
+	path = apache-kafka
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-apache-kafka.git

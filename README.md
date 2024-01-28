@@ -33,7 +33,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [EDA - Event Driven Architecture](https://github.com/alcir-junior-caju/study-full-cycle-3-0-eda-event-driven-architecture)
 - API Gateway
 - [RabbitMQ](https://github.com/alcir-junior-caju/study-full-cycle-3-0-rabbitMQ)
-- Apache Kafka
+- [Apache Kafka](https://github.com/alcir-junior-caju/study-full-cycle-3-0-apache-kafka)
 - Autenticação e Keycloak
 - Arquitetura do Projeto Prático - Codeflix
 - Projeto Prático - TypeScript (Backend)
