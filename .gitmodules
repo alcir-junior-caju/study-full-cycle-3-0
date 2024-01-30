@@ -43,3 +43,6 @@
 [submodule "codeflix"]
 	path = codeflix
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-arquitetura-codeflix.git
+[submodule "git-github"]
+	path = git-github
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-git-github.git
