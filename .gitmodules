@@ -46,3 +46,6 @@
 [submodule "git-github"]
 	path = git-github
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-git-github.git
+[submodule "continuous-integration"]
+	path = continuous-integration
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-continuous-integration.git
