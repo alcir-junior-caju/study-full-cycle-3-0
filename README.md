@@ -41,7 +41,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - Microserviço de Encoder de Vídeo com Go Lang
 - [Padrões e Técnicas Avançadas com Git e Github](https://github.com/alcir-junior-caju/study-full-cycle-3-0-git-github)
 - [Integração Contínua](https://github.com/alcir-junior-caju/study-full-cycle-3-0-continuous-integration)
-- [Desafio Integração Contínua](https://github.com/alcir-junior-caju/study-ts-keycloak)
+- [Desafio Integração Contínua](https://github.com/alcir-junior-caju/study-full-cycle-3-0-continuous-integration-challenge)
 - Kubernetes
 - Service Mesh com Istio
 - API Gateway com Kong e Kubernetes
