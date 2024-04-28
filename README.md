@@ -42,7 +42,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Padrões e Técnicas Avançadas com Git e Github](https://github.com/alcir-junior-caju/study-full-cycle-3-0-git-github)
 - [Integração Contínua](https://github.com/alcir-junior-caju/study-full-cycle-3-0-continuous-integration)
 - [Desafio Integração Contínua](https://github.com/alcir-junior-caju/study-full-cycle-3-0-continuous-integration-challenge)
-- Kubernetes
+- [Kubernetes](https://github.com/alcir-junior-caju/study-fullcycle-3-0-kubernetes)
 - Service Mesh com Istio
 - API Gateway com Kong e Kubernetes
 - Observabilidade

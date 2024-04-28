@@ -49,3 +49,6 @@
 [submodule "continuous-integration"]
 	path = continuous-integration
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-continuous-integration.git
+[submodule "kubernetes"]
+	path = kubernetes
+	url = git@github.com:alcir-junior-caju/study-fullcycle-3-0-kubernetes.git
