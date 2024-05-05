@@ -43,7 +43,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Integração Contínua](https://github.com/alcir-junior-caju/study-full-cycle-3-0-continuous-integration)
 - [Desafio Integração Contínua](https://github.com/alcir-junior-caju/study-full-cycle-3-0-continuous-integration-challenge)
 - [Kubernetes](https://github.com/alcir-junior-caju/study-fullcycle-3-0-kubernetes)
-- Service Mesh com Istio
+- [Service Mesh com Istio](https://github.com/alcir-junior-caju/study-full-cycle-3-0-service-mesh-istio)
 - API Gateway com Kong e Kubernetes
 - Observabilidade
 - Introdução a OpenTelemetry

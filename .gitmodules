@@ -52,3 +52,6 @@
 [submodule "kubernetes"]
 	path = kubernetes
 	url = git@github.com:alcir-junior-caju/study-fullcycle-3-0-kubernetes.git
+[submodule "istio"]
+	path = istio
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-service-mesh-istio.git
