@@ -55,3 +55,6 @@
 [submodule "istio"]
 	path = istio
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-service-mesh-istio.git
+[submodule "keycloak"]
+	path = keycloak
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-authentication-keycloak.git

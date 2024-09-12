@@ -34,7 +34,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - API Gateway
 - [RabbitMQ](https://github.com/alcir-junior-caju/study-full-cycle-3-0-rabbitMQ)
 - [Apache Kafka](https://github.com/alcir-junior-caju/study-full-cycle-3-0-apache-kafka)
-- Autenticação e Keycloak
+- [Autenticação e Keycloak](https://github.com/alcir-junior-caju/study-full-cycle-3-0-authentication-keycloak)
 - [Arquitetura do Projeto Prático - Codeflix](https://github.com/alcir-junior-caju/study-full-cycle-3-0-arquitetura-codeflix)
 - Projeto Prático - TypeScript (Backend)
 - Projeto Prático - React (Frontend)
