@@ -45,7 +45,7 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - [Kubernetes](https://github.com/alcir-junior-caju/study-fullcycle-3-0-kubernetes)
 - [Service Mesh com Istio](https://github.com/alcir-junior-caju/study-full-cycle-3-0-service-mesh-istio)
 - API Gateway com Kong e Kubernetes
-- Observabilidade
+- [Observabilidade](https://github.com/alcir-junior-caju/study-full-cycle-3-0-obaservabilidade)
 - Introdução a OpenTelemetry
 - Terraform
 - Ansible

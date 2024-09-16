@@ -58,3 +58,6 @@
 [submodule "keycloak"]
 	path = keycloak
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-authentication-keycloak.git
+[submodule "observabilidade"]
+	path = observabilidade
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-obaservabilidade.git
