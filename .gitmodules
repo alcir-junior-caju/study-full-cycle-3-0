@@ -61,3 +61,6 @@
 [submodule "observabilidade"]
 	path = observabilidade
 	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-obaservabilidade.git
+[submodule "deploy-aws"]
+	path = deploy-aws
+	url = git@github.com:alcir-junior-caju/study-full-cycle-3-0-deploy-aws.git

@@ -50,4 +50,4 @@ Para quem quiser visualizar o projeto na IDE clique no teclado a tecla `ponto`, 
 - Terraform
 - Ansible
 - GitOps
-- Deploy nas Clouds Providers
+- [Deploy nas Clouds Providers](https://github.com/alcir-junior-caju/study-full-cycle-3-0-deploy-aws)
